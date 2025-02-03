@@ -8,6 +8,10 @@ requirements = []
 path = "contracts/pet-profile.clar"
 depends_on = []
 
+[contracts.post]
+path = "contracts/post.clar"
+depends_on = []
+
 [repl]
 costs_version = 2
 parser_version = 2
